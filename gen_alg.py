@@ -1,4 +1,13 @@
 #!/usr/bin/python
+
+# Course: CS4267
+# Student name: Armaan Esfahani 
+# Student ID: 000764818
+# Assignment #: #4
+# Due Date: November 4th, 2019
+# Signature: A.E. 
+# Score: _________________
+
 import random
 import csv
 import argparse
